@@ -6,6 +6,7 @@
     "start": "node oow-one.js"
   },
   "dependencies": {
+    "jsonata": "^1.5.4",
     "request": "~2.51.0"
   }
 }
