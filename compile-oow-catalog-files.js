@@ -30,7 +30,6 @@ var sessionTypes = [
 ]
 
 var catalog = []
-var sessionType = sessionTypes[0]
 var expression = jsonata(
     ` $.{
         'code': code
